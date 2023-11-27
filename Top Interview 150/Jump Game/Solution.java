@@ -1,4 +1,8 @@
 class Solution {
+    
+    // Find project description here:
+    // https://leetcode.com/problems/jump-game-ii/?envType=study-plan-v2&envId=top-interview-150
+    
     public boolean canJump(int[] nums) {
 
         // Keeps track of the farthest index that can be reached after parsing through the
